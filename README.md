@@ -1,0 +1,5 @@
+
+# RAILS INTRODUCTION COURSE - ALLOCINE DB MANIPULATION
+# THP
+
+> Created on 31/07/2019 by Quentin Churet
